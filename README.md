@@ -1,0 +1,1 @@
+Checks the weather in Prague on a weather forecasting website using request and beautiful soup modules and then sends a text reminder to bring an umbrella if the chance to rain is > 30% for the rest of the day at any given hour.
